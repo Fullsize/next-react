@@ -1,2 +1,2 @@
 # next-react
-静态化处理react
+next项目模板
